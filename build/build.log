@@ -1,0 +1,1277 @@
+Handling lib "rpc-service-ota"...
+Handling lib "mjs"...
+Handling lib "rpc-service-fs"...
+rpc-service-ota: Does not exist, cloning from "https://github.com/mongoose-os-libs/rpc-service-ota"...
+Handling lib "rpc-common"...
+Handling lib "mqtt"...
+mjs: Does not exist, cloning from "https://github.com/mongoose-os-libs/mjs"...
+Handling lib "zz_boards"...
+Handling lib "neopixel"...
+Handling lib "rpc-service-config"...
+rpc-service-fs: Does not exist, cloning from "https://github.com/mongoose-os-libs/rpc-service-fs"...
+rpc-common: Does not exist, cloning from "https://github.com/mongoose-os-libs/rpc-common"...
+Handling lib "rpc-loopback"...
+Handling lib "i2c"...
+mqtt: Does not exist, cloning from "https://github.com/mongoose-os-libs/mqtt"...
+rpc-loopback: Does not exist, cloning from "https://github.com/mongoose-os-libs/rpc-loopback"...
+Handling lib "dash"...
+i2c: Does not exist, cloning from "https://github.com/mongoose-os-libs/i2c"...
+Handling lib "ca-bundle"...
+zz_boards: Does not exist, cloning from "https://github.com/mongoose-os-libs/boards"...
+dash: Does not exist, cloning from "https://github.com/mongoose-os-libs/dash"...
+Handling lib "core"...
+core: Does not exist, cloning from "https://github.com/mongoose-os-libs/core"...
+ca-bundle: Does not exist, cloning from "https://github.com/mongoose-os-libs/ca-bundle"...
+neopixel: Does not exist, cloning from "https://github.com/mongoose-os-libs/neopixel"...
+Handling lib "sntp"...
+Handling lib "adc"...
+Handling lib "rpc-uart"...
+Handling lib "rpc-service-i2c"...
+adc: Does not exist, cloning from "https://github.com/mongoose-os-libs/adc"...
+sntp: Does not exist, cloning from "https://github.com/mongoose-os-libs/sntp"...
+rpc-service-i2c: Does not exist, cloning from "https://github.com/mongoose-os-libs/rpc-service-i2c"...
+rpc-service-config: Does not exist, cloning from "https://github.com/mongoose-os-libs/rpc-service-config"...
+rpc-uart: Does not exist, cloning from "https://github.com/mongoose-os-libs/rpc-uart"...
+zz_boards: Checking out 2.19.1...
+zz_boards: Done, hash 90312821601d8ae5d173829141a4f5057b95c8cb
+zz_boards: Hash is updated:  -> 90312821601d8ae5d173829141a4f5057b95c8cb
+zz_boards: Prepared local dir: "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/boards"
+neopixel: Checking out 2.19.1...
+neopixel: Done, hash b0f403b3eb8b6d12a55d1aba9ad9e6c6db33f7ad
+neopixel: Hash is updated:  -> b0f403b3eb8b6d12a55d1aba9ad9e6c6db33f7ad
+neopixel: Prepared local dir: "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/neopixel"
+sntp: Checking out 2.19.1...
+sntp: Done, hash f7f4c04b8ce1231d6fa3fda3e70a8f5a11e28220
+sntp: Hash is updated:  -> f7f4c04b8ce1231d6fa3fda3e70a8f5a11e28220
+sntp: Prepared local dir: "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/sntp"
+ca-bundle: Checking out 2.19.1...
+ca-bundle: Done, hash 554b6acf2c2b456da2c3f954931d9570e86d162b
+ca-bundle: Hash is updated:  -> 554b6acf2c2b456da2c3f954931d9570e86d162b
+ca-bundle: Prepared local dir: "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/ca-bundle"
+adc: Checking out 2.19.1...
+mjs: Checking out 2.19.1...
+rpc-common: Checking out 2.19.1...
+dash: Checking out 2.19.1...
+rpc-common: Done, hash f948357dde68e67bcf8347b9a9a49468c6ee5c4c
+dash: Done, hash 8d3a2c420fa274deda1d46358b48d944b819ff54
+adc: Done, hash be5f8c8c7b1fc7c8b1abf44b97dd41248f47a2de
+rpc-common: Hash is updated:  -> f948357dde68e67bcf8347b9a9a49468c6ee5c4c
+rpc-common: Prepared local dir: "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/rpc-common"
+mjs: Done, hash e1076d2d60ec19450716af3c2605e4388e12b873
+dash: Hash is updated:  -> 8d3a2c420fa274deda1d46358b48d944b819ff54
+dash: Prepared local dir: "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/dash"
+adc: Hash is updated:  -> be5f8c8c7b1fc7c8b1abf44b97dd41248f47a2de
+adc: Prepared local dir: "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/adc"
+mjs: Hash is updated:  -> e1076d2d60ec19450716af3c2605e4388e12b873
+mjs: Prepared local dir: "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/mjs"
+rpc-loopback: Checking out 2.19.1...
+mqtt: Checking out 2.19.1...
+core: Checking out 2.19.1...
+rpc-service-fs: Checking out 2.19.1...
+i2c: Checking out 2.19.1...
+rpc-uart: Checking out 2.19.1...
+rpc-service-i2c: Checking out 2.19.1...
+core: Done, hash 98abe4a666879cc237784361441855bc48152462
+rpc-loopback: Done, hash dec04b4ec1205e3fbf017a2cd3a5a3d8eceacd04
+rpc-service-fs: Done, hash 5dea6ee11e623a0e827a750ee75111d9e15ae1b1
+rpc-service-i2c: Done, hash 0ae1956a03d37c07adab58059fd457c37b2cba12
+rpc-uart: Done, hash 4c68e5d7b3eecb19ccc6128f111a118384ed20b4
+i2c: Done, hash cd740fa1b33b4b01bacc5a86a51fbe5d27c33f9c
+mqtt: Done, hash 2b43e81e4d063c06210f7cd5cfb43b24dbb57658
+core: Hash is updated:  -> 98abe4a666879cc237784361441855bc48152462
+core: Prepared local dir: "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/core"
+rpc-uart: Hash is updated:  -> 4c68e5d7b3eecb19ccc6128f111a118384ed20b4
+rpc-uart: Prepared local dir: "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/rpc-uart"
+rpc-service-i2c: Hash is updated:  -> 0ae1956a03d37c07adab58059fd457c37b2cba12
+rpc-service-i2c: Prepared local dir: "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/rpc-service-i2c"
+rpc-service-fs: Hash is updated:  -> 5dea6ee11e623a0e827a750ee75111d9e15ae1b1
+rpc-service-fs: Prepared local dir: "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/rpc-service-fs"
+rpc-loopback: Hash is updated:  -> dec04b4ec1205e3fbf017a2cd3a5a3d8eceacd04
+rpc-loopback: Prepared local dir: "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/rpc-loopback"
+i2c: Hash is updated:  -> cd740fa1b33b4b01bacc5a86a51fbe5d27c33f9c
+i2c: Prepared local dir: "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/i2c"
+mqtt: Hash is updated:  -> 2b43e81e4d063c06210f7cd5cfb43b24dbb57658
+mqtt: Prepared local dir: "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/mqtt"
+rpc-service-ota: Checking out 2.19.1...
+rpc-service-config: Checking out 2.19.1...
+rpc-service-ota: Done, hash 136c3e34bf6a831e5fc00e1d59f90fe475445987
+rpc-service-config: Done, hash b30e187977d8dafcb4297cff60e036855a7ff531
+rpc-service-ota: Hash is updated:  -> 136c3e34bf6a831e5fc00e1d59f90fe475445987
+rpc-service-ota: Prepared local dir: "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/rpc-service-ota"
+rpc-service-config: Hash is updated:  -> b30e187977d8dafcb4297cff60e036855a7ff531
+rpc-service-config: Prepared local dir: "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/rpc-service-config"
+Handling lib "mongoose"...
+mongoose: Does not exist, cloning from "https://github.com/mongoose-os-libs/mongoose"...
+mongoose: Checking out 2.19.1...
+mongoose: Done, hash be8cbe06ddacb4539d43c1290b1326c399c1ed7d
+mongoose: Hash is updated:  -> be8cbe06ddacb4539d43c1290b1326c399c1ed7d
+mongoose: Prepared local dir: "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/mongoose"
+Handling lib "rpc-ws"...
+Handling lib "shadow"...
+Handling lib "ota-shadow"...
+rpc-ws: Does not exist, cloning from "https://github.com/mongoose-os-libs/rpc-ws"...
+ota-shadow: Does not exist, cloning from "https://github.com/mongoose-os-libs/ota-shadow"...
+shadow: Does not exist, cloning from "https://github.com/mongoose-os-libs/shadow"...
+rpc-ws: Checking out 2.19.1...
+rpc-ws: Done, hash 45a8cddaf9ed07d25d76266709705ca6d8dbf5bf
+rpc-ws: Hash is updated:  -> 45a8cddaf9ed07d25d76266709705ca6d8dbf5bf
+rpc-ws: Prepared local dir: "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/rpc-ws"
+shadow: Checking out 2.19.1...
+shadow: Done, hash 0be68cac8bbfeb1e45b5a516118243cecce1ec8f
+shadow: Hash is updated:  -> 0be68cac8bbfeb1e45b5a516118243cecce1ec8f
+shadow: Prepared local dir: "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/shadow"
+ota-shadow: Checking out 2.19.1...
+ota-shadow: Done, hash b3b148e5c6c21ae226143c1f8025facea51228fc
+ota-shadow: Hash is updated:  -> b3b148e5c6c21ae226143c1f8025facea51228fc
+ota-shadow: Prepared local dir: "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/ota-shadow"
+Handling lib "vfs-common"...
+vfs-common: Does not exist, cloning from "https://github.com/mongoose-os-libs/vfs-common"...
+vfs-common: Checking out 2.19.1...
+vfs-common: Done, hash df19c4e68e7f0dddde27e9024f3168e30ab03c3d
+vfs-common: Hash is updated:  -> df19c4e68e7f0dddde27e9024f3168e30ab03c3d
+vfs-common: Prepared local dir: "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/vfs-common"
+Handling lib "ota-http-client"...
+ota-http-client: Does not exist, cloning from "https://github.com/mongoose-os-libs/ota-http-client"...
+ota-http-client: Checking out 2.19.1...
+ota-http-client: Done, hash e2f9fcfcae9e6efb24e6de6b42af6dd483dd675b
+ota-http-client: Hash is updated:  -> e2f9fcfcae9e6efb24e6de6b42af6dd483dd675b
+ota-http-client: Prepared local dir: "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/ota-http-client"
+Handling lib "mbedtls"...
+mbedtls: Does not exist, cloning from "https://github.com/mongoose-os-libs/mbedtls"...
+mbedtls: Checking out 2.19.1...
+mbedtls: Done, hash 8216c1a8babe86b04f2930fa00217e440ed9624b
+mbedtls: Hash is updated:  -> 8216c1a8babe86b04f2930fa00217e440ed9624b
+mbedtls: Prepared local dir: "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/mbedtls"
+Handling lib "ota-common"...
+ota-common: Does not exist, cloning from "https://github.com/mongoose-os-libs/ota-common"...
+ota-common: Checking out 2.19.1...
+ota-common: Done, hash 11d8daecdc553c8d3bb94a610398ebb0846c6215
+ota-common: Hash is updated:  -> 11d8daecdc553c8d3bb94a610398ebb0846c6215
+ota-common: Prepared local dir: "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/ota-common"
+Handling lib "freertos"...
+Handling lib "vfs-fs-lfs"...
+Handling lib "vfs-fs-spiffs"...
+vfs-fs-lfs: Does not exist, cloning from "https://github.com/mongoose-os-libs/vfs-fs-lfs"...
+vfs-fs-spiffs: Does not exist, cloning from "https://github.com/mongoose-os-libs/vfs-fs-spiffs"...
+freertos: Does not exist, cloning from "https://github.com/mongoose-os-libs/freertos"...
+vfs-fs-spiffs: Checking out 2.19.1...
+vfs-fs-spiffs: Done, hash 8317dc59356147918d15cb3258e2083cf20f4e3e
+vfs-fs-spiffs: Hash is updated:  -> 8317dc59356147918d15cb3258e2083cf20f4e3e
+vfs-fs-spiffs: Prepared local dir: "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/vfs-fs-spiffs"
+freertos: Checking out 2.19.1...
+freertos: Done, hash f4b5ba5336f2f0fe3b183527790cf82e0644364e
+freertos: Hash is updated:  -> f4b5ba5336f2f0fe3b183527790cf82e0644364e
+freertos: Prepared local dir: "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/freertos"
+vfs-fs-lfs: Checking out 2.19.1...
+vfs-fs-lfs: Done, hash 13857635705bd936a60ec98c2b1965656daa0bf8
+vfs-fs-lfs: Hash is updated:  -> 13857635705bd936a60ec98c2b1965656daa0bf8
+vfs-fs-lfs: Prepared local dir: "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/vfs-fs-lfs"
+Handling lib "wifi"...
+wifi: Does not exist, cloning from "https://github.com/mongoose-os-libs/wifi"...
+wifi: Checking out 2.19.1...
+wifi: Done, hash 11a208e7e6df2c47a5b8166a589217157aee9462
+wifi: Hash is updated:  -> 11a208e7e6df2c47a5b8166a589217157aee9462
+wifi: Prepared local dir: "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/wifi"
+The flag --module is not given for the module "mjs_module", going to use the repository
+mjs_module: Does not exist, cloning from "https://github.com/cesanta/mjs"...
+mjs_module: Checking out 2.19.1...
+mjs_module: Done, hash 4c870e584d2b2a538abcee5307c498cc37e7ef9d
+The flag --module is not given for the module "mbedtls_module", going to use the repository
+mbedtls_module: Does not exist, cloning from "https://github.com/mongoose-os/mbedtls"...
+mbedtls_module: Checking out 2.16.6-cesanta1...
+mbedtls_module: Done, hash 1e5cc8512a64afaa15f4adc7b8c91581e252e087
+The flag --repo is not given, going to use mongoose-os repository
+mongoose-os: Does not exist, cloning from "https://github.com/cesanta/mongoose-os"...
+mongoose-os: Checking out 2.19.1...
+mongoose-os: Done, hash d52032f9b27836ec0ec00c6fc5cb49403e08c7cf
+Successfully fetched prebuilt binary for "mongoose" to "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/libmongoose-esp32-2.19.1.a"
+Successfully fetched prebuilt binary for "ota-common" to "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/libota-common-esp32-2.19.1.a"
+Successfully fetched prebuilt binary for "ota-http-client" to "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/libota-http-client-esp32-2.19.1.a"
+Successfully fetched prebuilt binary for "ota-shadow" to "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/libota-shadow-esp32-2.19.1.a"
+Successfully fetched prebuilt binary for "dash" to "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/libdash-esp32-2.19.1.a"
+Successfully fetched prebuilt binary for "rpc-service-ota" to "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/librpc-service-ota-esp32-2.19.1.a"
+Sources: [/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/gen/mgos_deps_init.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/adc/src/esp32/esp32_adc.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/freertos/src/mgos_freertos.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/freertos/src/mgos_freertos_core_dump.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/mbedtls/src/mgos_mbedtls.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/mbedtls/src/esp32/esp32_aes.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/mbedtls/src/esp32/esp32_bignum.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mbedtls/library/aes.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mbedtls/library/aes_atca.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mbedtls/library/aesni.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mbedtls/library/arc4.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mbedtls/library/aria.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mbedtls/library/asn1parse.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mbedtls/library/asn1write.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mbedtls/library/base64.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mbedtls/library/bignum.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mbedtls/library/blowfish.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mbedtls/library/camellia.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mbedtls/library/ccm.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mbedtls/library/certs.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mbedtls/library/chacha20.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mbedtls/library/chachapoly.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mbedtls/library/cipher.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mbedtls/library/cipher_wrap.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mbedtls/library/cmac.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mbedtls/library/ctr_drbg.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mbedtls/library/debug.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mbedtls/library/des.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mbedtls/library/dhm.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mbedtls/library/ecdh.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mbedtls/library/ecdsa.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mbedtls/library/ecjpake.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mbedtls/library/ecp.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mbedtls/library/ecp_atca.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mbedtls/library/ecp_curves.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mbedtls/library/entropy.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mbedtls/library/entropy_poll.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mbedtls/library/error.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mbedtls/library/gcm.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mbedtls/library/havege.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mbedtls/library/hkdf.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mbedtls/library/hmac_drbg.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mbedtls/library/md.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mbedtls/library/md2.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mbedtls/library/md4.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mbedtls/library/md5.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mbedtls/library/md_wrap.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mbedtls/library/memory_buffer_alloc.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mbedtls/library/net_sockets.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mbedtls/library/nist_kw.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mbedtls/library/oid.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mbedtls/library/padlock.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mbedtls/library/pem.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mbedtls/library/pk.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mbedtls/library/pk_wrap.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mbedtls/library/pkcs11.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mbedtls/library/pkcs12.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mbedtls/library/pkcs5.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mbedtls/library/pkparse.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mbedtls/library/pkwrite.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mbedtls/library/platform.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mbedtls/library/platform_util.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mbedtls/library/poly1305.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mbedtls/library/ripemd160.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mbedtls/library/rsa.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mbedtls/library/rsa_internal.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mbedtls/library/sha1.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mbedtls/library/sha256.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mbedtls/library/sha512.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mbedtls/library/ssl_cache.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mbedtls/library/ssl_ciphersuites.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mbedtls/library/ssl_cli.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mbedtls/library/ssl_cookie.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mbedtls/library/ssl_srv.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mbedtls/library/ssl_ticket.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mbedtls/library/ssl_tls.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mbedtls/library/threading.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mbedtls/library/timing.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mbedtls/library/version.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mbedtls/library/version_features.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mbedtls/library/x509.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mbedtls/library/x509_create.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mbedtls/library/x509_crl.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mbedtls/library/x509_crt.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mbedtls/library/x509_csr.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mbedtls/library/x509write_crt.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mbedtls/library/x509write_csr.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mbedtls/library/xtea.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/vfs-common/src/mgos_vfs.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/vfs-common/src/mgos_vfs_dev.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/vfs-common/src/mgos_vfs_internal.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/vfs-common/src/esp32/esp32_fs.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/vfs-common/src/esp32/esp32_fs_crypt.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/vfs-common/src/esp32/esp32_vfs_dev_partition.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/vfs-fs-lfs/src/mgos_vfs_lfs.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/vfs-fs-lfs/littlefs/lfs.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/vfs-fs-lfs/littlefs/lfs_util.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/vfs-fs-lfs/littlefs1/lfs1.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/vfs-fs-lfs/littlefs1/lfs1_util.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/vfs-fs-spiffs/src/mgos_vfs_fs_spiffs.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/vfs-fs-spiffs/src/spiffs/spiffs_cache.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/vfs-fs-spiffs/src/spiffs/spiffs_check.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/vfs-fs-spiffs/src/spiffs/spiffs_gc.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/vfs-fs-spiffs/src/spiffs/spiffs_hydrogen.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/vfs-fs-spiffs/src/spiffs/spiffs_nucleus.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/core/src/mgos_core.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/shadow/src/mgos_shadow.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/rpc-common/src/mg_rpc.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/rpc-common/src/mg_rpc_channel.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/rpc-common/src/mg_rpc_channel_http.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/rpc-common/src/mgos_rpc.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/rpc-ws/src/mgos_rpc_channel_ws.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/rpc-ws/src/mgos_rpc_ws.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/i2c/src/mgos_i2c_master.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/i2c/src/esp32/esp32_i2c_master.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/mjs/src/mos_mjs.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mjs/mjs.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/mjs/esp32/src/esp32_mjs.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/mqtt/src/mgos_mqtt.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/mqtt/src/mgos_mqtt_conn.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/neopixel/src/mgos_neopixel.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/rpc-loopback/src/mg_rpc_channel_loopback.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/rpc-service-config/src/mgos_service_config.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/rpc-service-fs/src/mgos_service_fs.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/rpc-service-i2c/src/mgos_i2c_service.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/rpc-uart/src/mgos_rpc_channel_uart.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/sntp/src/mgos_sntp.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/wifi/src/mgos_wifi.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/wifi/src/mjs_wifi.c /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/wifi/src/esp32/esp32_wifi.c]
+Include dirs: [/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/adc/include /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/adc/include/esp32 /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/freertos/include /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/freertos/include/esp32 /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/mbedtls/include /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/mbedtls/include/esp32 /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mbedtls/include /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/vfs-common/include /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/vfs-common/include/esp32 /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/mongoose/include /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/vfs-fs-lfs/include /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/vfs-fs-lfs/littlefs /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/vfs-fs-lfs/littlefs1 /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/vfs-fs-spiffs/include /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/vfs-fs-spiffs/include/spiffs /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/vfs-fs-spiffs/include/esp32 /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/core/include /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/core/include/esp32 /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/ota-common/src /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/ota-common/include /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/ota-common/include/esp32 /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/ota-http-client/include /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/shadow/include /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/rpc-common/include /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/rpc-ws/include /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/dash/include /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/i2c/include /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/mjs/include /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/mqtt/include /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/neopixel/include /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/rpc-loopback/include /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/rpc-service-config/include /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/rpc-service-i2c/include /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/rpc-service-ota/include /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/rpc-uart/include /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/wifi/include /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/wifi/include/esp32]
+Binary libs: [/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/libmongoose-esp32-2.19.1.a /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/libota-common-esp32-2.19.1.a /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/libota-http-client-esp32-2.19.1.a /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/libota-shadow-esp32-2.19.1.a /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/libdash-esp32-2.19.1.a /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/librpc-service-ota-esp32-2.19.1.a]
+Building...
+mount from "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589" to "/app"
+mount from "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mongoose-os" to "/mongoose-os"
+mount from "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mongoose-os" to "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mongoose-os"
+mount from "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build" to "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build"
+mount from "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/gen" to "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/gen"
+mount from "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/adc/src" to "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/adc/src"
+mount from "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/adc/src/esp32" to "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/adc/src/esp32"
+mount from "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/freertos/src" to "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/freertos/src"
+mount from "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/mbedtls/src" to "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/mbedtls/src"
+mount from "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/mbedtls/src/esp32" to "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/mbedtls/src/esp32"
+mount from "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mbedtls/library" to "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mbedtls/library"
+mount from "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/vfs-common/src" to "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/vfs-common/src"
+mount from "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/vfs-common/src/esp32" to "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/vfs-common/src/esp32"
+mount from "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/vfs-fs-lfs/src" to "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/vfs-fs-lfs/src"
+mount from "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/vfs-fs-lfs/littlefs" to "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/vfs-fs-lfs/littlefs"
+mount from "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/vfs-fs-lfs/littlefs1" to "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/vfs-fs-lfs/littlefs1"
+mount from "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/vfs-fs-spiffs/src" to "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/vfs-fs-spiffs/src"
+mount from "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/vfs-fs-spiffs/src/spiffs" to "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/vfs-fs-spiffs/src/spiffs"
+mount from "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/core/src" to "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/core/src"
+mount from "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/shadow/src" to "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/shadow/src"
+mount from "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/rpc-common/src" to "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/rpc-common/src"
+mount from "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/rpc-ws/src" to "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/rpc-ws/src"
+mount from "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/i2c/src" to "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/i2c/src"
+mount from "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/i2c/src/esp32" to "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/i2c/src/esp32"
+mount from "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/mjs/src" to "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/mjs/src"
+mount from "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mjs" to "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mjs"
+mount from "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/mjs/esp32/src" to "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/mjs/esp32/src"
+mount from "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/mqtt/src" to "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/mqtt/src"
+mount from "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/neopixel/src" to "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/neopixel/src"
+mount from "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/rpc-loopback/src" to "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/rpc-loopback/src"
+mount from "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/rpc-service-config/src" to "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/rpc-service-config/src"
+mount from "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/rpc-service-fs/src" to "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/rpc-service-fs/src"
+mount from "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/rpc-service-i2c/src" to "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/rpc-service-i2c/src"
+mount from "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/rpc-uart/src" to "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/rpc-uart/src"
+mount from "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/sntp/src" to "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/sntp/src"
+mount from "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/wifi/src" to "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/wifi/src"
+mount from "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/wifi/src/esp32" to "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/wifi/src/esp32"
+mount from "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/adc/include" to "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/adc/include"
+mount from "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/adc/include/esp32" to "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/adc/include/esp32"
+mount from "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/freertos/include" to "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/freertos/include"
+mount from "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/mbedtls/include" to "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/mbedtls/include"
+mount from "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/mbedtls/include/esp32" to "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/mbedtls/include/esp32"
+mount from "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mbedtls/include" to "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mbedtls/include"
+mount from "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/vfs-common/include" to "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/vfs-common/include"
+mount from "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/vfs-common/include/esp32" to "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/vfs-common/include/esp32"
+mount from "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/mongoose/include" to "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/mongoose/include"
+mount from "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/vfs-fs-lfs/include" to "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/vfs-fs-lfs/include"
+mount from "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/vfs-fs-lfs/littlefs" to "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/vfs-fs-lfs/littlefs"
+mount from "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/vfs-fs-lfs/littlefs1" to "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/vfs-fs-lfs/littlefs1"
+mount from "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/vfs-fs-spiffs/include" to "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/vfs-fs-spiffs/include"
+mount from "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/vfs-fs-spiffs/include/spiffs" to "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/vfs-fs-spiffs/include/spiffs"
+mount from "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/vfs-fs-spiffs/include/esp32" to "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/vfs-fs-spiffs/include/esp32"
+mount from "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/core/include" to "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/core/include"
+mount from "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/ota-common/include" to "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/ota-common/include"
+mount from "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/ota-common/include/esp32" to "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/ota-common/include/esp32"
+mount from "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/ota-http-client/include" to "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/ota-http-client/include"
+mount from "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/shadow/include" to "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/shadow/include"
+mount from "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/rpc-common/include" to "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/rpc-common/include"
+mount from "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/rpc-ws/include" to "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/rpc-ws/include"
+mount from "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/dash/include" to "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/dash/include"
+mount from "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/i2c/include" to "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/i2c/include"
+mount from "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/mjs/include" to "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/mjs/include"
+mount from "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/mqtt/include" to "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/mqtt/include"
+mount from "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/neopixel/include" to "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/neopixel/include"
+mount from "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/rpc-loopback/include" to "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/rpc-loopback/include"
+mount from "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/rpc-service-config/include" to "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/rpc-service-config/include"
+mount from "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/rpc-service-i2c/include" to "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/rpc-service-i2c/include"
+mount from "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/rpc-service-ota/include" to "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/rpc-service-ota/include"
+mount from "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/rpc-uart/include" to "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/rpc-uart/include"
+mount from "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/wifi/include" to "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/wifi/include"
+mount from "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/wifi/include/esp32" to "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/wifi/include/esp32"
+mount from "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/ca-bundle/fs" to "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/ca-bundle/fs"
+mount from "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/mjs/fs" to "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/mjs/fs"
+mount from "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mjs/mjs/lib" to "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mjs/mjs/lib"
+mount from "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/adc/mjs_fs" to "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/adc/mjs_fs"
+mount from "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/ota-http-client/mjs_fs" to "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/ota-http-client/mjs_fs"
+mount from "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/shadow/mjs_fs" to "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/shadow/mjs_fs"
+mount from "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/rpc-common/mjs_fs" to "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/rpc-common/mjs_fs"
+mount from "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/dash/mjs_fs" to "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/dash/mjs_fs"
+mount from "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/i2c/mjs_fs" to "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/i2c/mjs_fs"
+mount from "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/mqtt/mjs_fs" to "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/mqtt/mjs_fs"
+mount from "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/neopixel/mjs_fs" to "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/neopixel/mjs_fs"
+mount from "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/wifi/mjs_fs" to "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/wifi/mjs_fs"
+mount from "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/mjs/esp32/fs" to "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/mjs/esp32/fs"
+mount from "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/fs" to "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/fs"
+mount from "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs" to "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs"
+mount from "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs" to "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs"
+mount from "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs" to "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs"
+mount from "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs" to "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs"
+mount from "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs" to "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs"
+mount from "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs" to "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs"
+mount from "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/gen" to "/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/gen"
+Docker arguments: run --name mos_build_2022-02-12T18-31-12-00_9124575245737724967 --rm -i -v /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/adc/src:/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/adc/src -v /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/wifi/include/esp32:/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/wifi/include/esp32 -v /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mjs/mjs/lib:/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mjs/mjs/lib -v /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/ota-http-client/mjs_fs:/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/ota-http-client/mjs_fs -v /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/wifi/mjs_fs:/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/wifi/mjs_fs -v /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/vfs-common/include/esp32:/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/vfs-common/include/esp32 -v /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/vfs-fs-spiffs/include/spiffs:/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/vfs-fs-spiffs/include/spiffs -v /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/ota-http-client/include:/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/ota-http-client/include -v /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/i2c/include:/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/i2c/include -v /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/neopixel/include:/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/neopixel/include -v /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/vfs-fs-spiffs/src:/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/vfs-fs-spiffs/src -v /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/vfs-common/include:/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/vfs-common/include -v /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/mqtt/include:/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/mqtt/include -v /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/rpc-service-ota/include:/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/rpc-service-ota/include -v /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs:/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs -v /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/freertos/src:/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/freertos/src -v /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/vfs-fs-spiffs/include/esp32:/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/vfs-fs-spiffs/include/esp32 -v /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/rpc-service-config/include:/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/rpc-service-config/include -v /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/rpc-uart/include:/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/rpc-uart/include -v /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589:/app -v /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/vfs-common/src/esp32:/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/vfs-common/src/esp32 -v /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/mqtt/src:/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/mqtt/src -v /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/mongoose/include:/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/mongoose/include -v /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/vfs-fs-spiffs/include:/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/vfs-fs-spiffs/include -v /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/dash/include:/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/dash/include -v /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/wifi/include:/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/wifi/include -v /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/i2c/mjs_fs:/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/i2c/mjs_fs -v /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build:/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build -v /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/gen:/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/gen -v /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/mbedtls/src/esp32:/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/mbedtls/src/esp32 -v /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mbedtls/library:/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mbedtls/library -v /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/neopixel/src:/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/neopixel/src -v /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/shadow/include:/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/shadow/include -v /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/rpc-service-i2c/include:/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/rpc-service-i2c/include -v /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/vfs-common/src:/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/vfs-common/src -v /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/rpc-ws/src:/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/rpc-ws/src -v /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/mjs/esp32/src:/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/mjs/esp32/src -v /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/mbedtls/include/esp32:/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/mbedtls/include/esp32 -v /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mbedtls/include:/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mbedtls/include -v /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/vfs-fs-lfs/include:/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/vfs-fs-lfs/include -v /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/freertos/include:/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/freertos/include -v /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/ca-bundle/fs:/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/ca-bundle/fs -v /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/mqtt/mjs_fs:/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/mqtt/mjs_fs -v /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/adc/src/esp32:/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/adc/src/esp32 -v /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/vfs-fs-lfs/littlefs:/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/vfs-fs-lfs/littlefs -v /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/core/src:/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/core/src -v /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/i2c/src:/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/i2c/src -v /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/adc/include:/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/adc/include -v /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/mjs/fs:/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/mjs/fs -v /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/dash/mjs_fs:/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/dash/mjs_fs -v /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/i2c/src/esp32:/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/i2c/src/esp32 -v /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/rpc-uart/src:/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/rpc-uart/src -v /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/wifi/src/esp32:/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/wifi/src/esp32 -v /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/mbedtls/include:/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/mbedtls/include -v /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/rpc-common/include:/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/rpc-common/include -v /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/adc/mjs_fs:/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/adc/mjs_fs -v /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/vfs-fs-spiffs/src/spiffs:/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/vfs-fs-spiffs/src/spiffs -v /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/rpc-loopback/src:/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/rpc-loopback/src -v /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/rpc-service-config/src:/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/rpc-service-config/src -v /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/ota-common/include/esp32:/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/ota-common/include/esp32 -v /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/rpc-loopback/include:/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/rpc-loopback/include -v /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/vfs-fs-lfs/littlefs1:/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/vfs-fs-lfs/littlefs1 -v /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/sntp/src:/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/sntp/src -v /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/ota-common/include:/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/ota-common/include -v /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/rpc-ws/include:/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/rpc-ws/include -v /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/fs:/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/fs -v /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/shadow/src:/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/shadow/src -v /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/rpc-common/src:/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/rpc-common/src -v /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/wifi/src:/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/wifi/src -v /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/adc/include/esp32:/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/adc/include/esp32 -v /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/neopixel/mjs_fs:/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/neopixel/mjs_fs -v /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/shadow/mjs_fs:/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/shadow/mjs_fs -v /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/mjs/esp32/fs:/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/mjs/esp32/fs -v /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mongoose-os:/mongoose-os -v /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/mjs/src:/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/mjs/src -v /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mjs:/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mjs -v /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/rpc-service-fs/src:/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/rpc-service-fs/src -v /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/mjs/include:/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/mjs/include -v /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mongoose-os:/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mongoose-os -v /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/mbedtls/src:/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/mbedtls/src -v /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/rpc-service-i2c/src:/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/rpc-service-i2c/src -v /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/rpc-common/mjs_fs:/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/rpc-common/mjs_fs -v /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/vfs-fs-lfs/src:/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/vfs-fs-lfs/src -v /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/core/include:/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/core/include --user 0:0 docker.io/mgos/esp32-build:4.2-r1 /bin/bash -c nice make '-j' '8' '-C' '/app' '-f' '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mongoose-os/platforms/esp32/Makefile.build' 'all' 'MGOS_VARS_FILE=/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/gen/vars.mk'
+make: Entering directory '/app'
+/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mongoose-os/platforms/esp32/Makefile.build:183: warning: overriding recipe for target 'defconfig'
+/opt/Espressif/esp-idf/make/project_config.mk:157: warning: ignoring old recipe for target 'defconfig'
+/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mongoose-os/platforms/esp32/Makefile.build:183: warning: overriding recipe for target 'menuconfig'
+/opt/Espressif/esp-idf/make/project_config.mk:140: warning: ignoring old recipe for target 'menuconfig'
+mconf-idf is not required on this platform
+WARNING: The TERM environment variable is not defined. The curses-based menuconfig will probably fail to run. Please consult the documentation of your terminal to set it up.
+Python requirements from /opt/Espressif/esp-idf/requirements.txt are satisfied.
+GENCONFIG
+/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mongoose-os/platforms/esp32/Makefile.build:224: warning: overriding recipe for target 'clean'
+/opt/Espressif/esp-idf/components/app_update/Makefile.projbuild:53: warning: ignoring old recipe for target 'clean'
+make[1]: Entering directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/vfs'
+make[1]: Entering directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/xtensa'
+make[1]: Entering directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/spi_flash'
+make[1]: Entering directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/partition_table'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/partition_table'
+make[1]: Entering directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/nvs_flash'
+make[1]: Entering directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/soc'
+make[1]: Entering directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/pthread'
+make[1]: Entering directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/wpa_supplicant'
+make[1]: Entering directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/newlib'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/vfs'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/xtensa'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/spi_flash'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/nvs_flash'
+make[1]: Entering directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/log'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/pthread'
+make[1]: Entering directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/lwip'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/newlib'
+make[1]: Entering directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/heap'
+make[1]: Entering directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/freertos'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/soc'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/wpa_supplicant'
+make[1]: Entering directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esptool_py'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/log'
+make[1]: Entering directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/mosapp'
+make[1]: Entering directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/espcoredump'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esptool_py'
+make[1]: Entering directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_timer'
+make[1]: Entering directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_wifi'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/heap'
+make[1]: Entering directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_system'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/lwip'
+make[1]: Entering directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_rom'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/freertos'
+make[1]: Entering directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_ringbuf'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/mosapp'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_wifi'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/espcoredump'
+make[1]: Entering directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_netif'
+make[1]: Entering directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_ipc'
+make[1]: Entering directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_gdbstub'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_system'
+make[1]: Entering directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_event'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_timer'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_ringbuf'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_rom'
+make[1]: Entering directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_common'
+make[1]: Entering directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_adc_cal'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_netif'
+make[1]: Entering directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/efuse'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_event'
+make[1]: Entering directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp32'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_gdbstub'
+make[1]: Entering directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/driver'
+make[1]: Entering directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/cxx'
+make[1]: Entering directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader_support'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/efuse'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_common'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_ipc'
+make[1]: Entering directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/app_update'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/driver'
+make[1]: Entering directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_adc_cal'
+make[1]: Entering directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/app_trace'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader_support'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp32'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/cxx'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/app_trace'
+App "MOS_I2C_SCAN" version: 2.19.1
+make[1]: Leaving directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/app_update'
+/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mongoose-os/platforms/esp32/Makefile.build:224: warning: overriding recipe for target 'clean'
+/opt/Espressif/esp-idf/components/app_update/Makefile.projbuild:53: warning: ignoring old recipe for target 'clean'
+make[1]: Entering directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/app_update'
+make[1]: Entering directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/app_trace'
+make[1]: Entering directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/cxx'
+make[1]: Entering directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader_support'
+CXX /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/cxx/cxx_guards.o
+make[1]: Entering directory '/opt/Espressif/esp-idf/components/bootloader/subproject'
+make[1]: Entering directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/driver'
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/app_trace/app_trace_util.o
+make[1]: Entering directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/efuse'
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/driver/spi_common.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader_support/src/bootloader_efuse_esp32.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/efuse/esp32/esp_efuse_table.o
+App "MOS_I2C_SCAN" version: 2.19.1
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/app_update/esp_ota_ops.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/efuse/src/esp_efuse_api.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader_support/src/bootloader_flash.o
+make[2]: Entering directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/efuse'
+make[2]: Leaving directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/efuse'
+make[2]: Entering directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/main'
+make[2]: Leaving directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/main'
+make[2]: Entering directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/soc'
+make[2]: Leaving directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/soc'
+make[2]: Entering directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/micro-ecc'
+make[2]: Leaving directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/micro-ecc'
+make[2]: Entering directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/spi_flash'
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/app_trace/host_file_io.o
+make[2]: Leaving directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/spi_flash'
+make[2]: Entering directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/log'
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader_support/src/flash_qio_mode.o
+make[2]: Leaving directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/log'
+make[2]: Entering directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/bootloader_support'
+Python requirements from /opt/Espressif/esp-idf/requirements.txt are satisfied.
+make[2]: Entering directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/esptool_py'
+make[2]: Leaving directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/esptool_py'
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/app_trace/app_trace.o
+make[2]: Leaving directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/bootloader_support'
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/efuse/src/esp_efuse_utility.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/app_trace/heap_trace_tohost.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/app_update/esp_app_desc.o
+CXX /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/cxx/cxx_exception_stubs.o
+make[2]: Entering directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/bootloader_support'
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/app_trace/gcov/gcov_rtio.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/efuse/src/esp_efuse_fields.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/bootloader_support/src/bootloader_efuse_esp32.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader_support/src/bootloader_random_esp32.o
+AR /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/app_update/libapp_update.a
+make[1]: Leaving directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/app_update'
+make[1]: Entering directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp32'
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp32/sleep_modes.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/efuse/src/esp32/esp_efuse_api.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/bootloader_support/src/bootloader_flash.o
+AR /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/cxx/libcxx.a
+make[1]: Leaving directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/cxx'
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/efuse/src/esp32/esp_efuse_utility.o
+make[1]: Entering directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_adc_cal'
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_adc_cal/esp_adc_cal_esp32.o
+AR /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/app_trace/libapp_trace.a
+make[1]: Leaving directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/app_trace'
+make[1]: Entering directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_common'
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/driver/adc_common.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_common/src/task_wdt.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/efuse/src/esp32/esp_efuse_fields.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader_support/src/bootloader_mem.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/bootloader_support/src/flash_qio_mode.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader_support/src/bootloader_utility.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/bootloader_support/src/bootloader_init.o
+AR /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/efuse/libefuse.a
+make[1]: Leaving directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/efuse'
+AR /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_adc_cal/libesp_adc_cal.a
+make[1]: Entering directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_event'
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_event/event_loop_legacy.o
+make[1]: Leaving directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_adc_cal'
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp32/cpu_start.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/bootloader_support/src/bootloader_random_esp32.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_common/src/dbg_stubs.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/bootloader_support/src/bootloader_mem.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_event/default_event_loop.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/bootloader_support/src/bootloader_utility.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_common/src/int_wdt.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/bootloader_support/src/bootloader_common.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/driver/spi_master.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp32/cache_sram_mmu.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader_support/src/bootloader_common.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_event/event_send.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_common/src/mac_addr.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp32/crosscore_int.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp32/pm_trace.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/bootloader_support/src/bootloader_clock.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_common/src/freertos_hooks.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_event/esp_event.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/bootloader_support/src/bootloader_flash_config_esp32.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp32/spiram_psram.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/bootloader_support/src/flash_partitions.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader_support/src/bootloader_clock.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp32/clk.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/bootloader_support/src/esp_image_format.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/bootloader_support/src/flash_encrypt.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_common/src/esp_err.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader_support/src/bootloader_flash_config_esp32.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp32/spiram.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/bootloader_support/src/bootloader_random.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_common/src/pm_locks.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/bootloader_support/src/esp32/bootloader_sha.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/driver/sigmadelta.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp32/cache_err_int.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp32/intr_alloc.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader_support/src/flash_partitions.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_common/src/esp_err_to_name.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_event/esp_event_private.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/bootloader_support/src/esp32/bootloader_esp32.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/bootloader_support/src/esp32/flash_encrypt.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp32/system_api_esp32.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader_support/src/esp_image_format.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/driver/touch_sensor_common.o
+AR /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_event/libesp_event.a
+make[1]: Leaving directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_event'
+make[1]: Entering directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_gdbstub'
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_gdbstub/src/packet.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_common/src/stack_check.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_common/src/brownout.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_gdbstub/src/gdbstub.o
+AR /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/bootloader_support/libbootloader_support.a
+make[2]: Leaving directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/bootloader_support'
+make[2]: Entering directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/log'
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/log/log.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_gdbstub/esp32/gdbstub_esp32.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp32/pm_esp32.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp32/hw_random.o
+AR /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_common/libesp_common.a
+make[1]: Leaving directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_common'
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader_support/src/flash_encrypt.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader_support/src/bootloader_random.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/driver/sdio_slave.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/log/log_noos.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp32/dport_access.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader_support/src/idf/bootloader_sha.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_gdbstub/xtensa/gdbstub_xtensa.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp32/esp_himem.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/driver/i2c.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/log/log_buffers.o
+AR /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader_support/libbootloader_support.a
+make[1]: Leaving directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader_support'
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/driver/sdspi_transaction.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/driver/ledc.o
+AR /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/log/liblog.a
+make[2]: Leaving directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/log'
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/driver/uart.o
+make[2]: Entering directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/spi_flash'
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/spi_flash/esp32/spi_flash_rom_patch.o
+AR /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_gdbstub/libesp_gdbstub.a
+make[1]: Leaving directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_gdbstub'
+make[1]: Entering directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_ipc'
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_ipc/ipc.o
+AR /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp32/libesp32.a
+make[1]: Leaving directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp32'
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/driver/twai.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/driver/sdspi_host.o
+AR /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_ipc/libesp_ipc.a
+make[1]: Leaving directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_ipc'
+make[1]: Entering directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_netif'
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_netif/esp_netif_defaults.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/driver/gpio.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_netif/esp_netif_objects.o
+AR /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/spi_flash/libspi_flash.a
+make[2]: Leaving directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/spi_flash'
+make[2]: Entering directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/micro-ecc'
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/micro-ecc/uECC_verify_antifault.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_netif/esp_netif_handlers.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/driver/pcnt.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/driver/sdspi_crc.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/driver/sdmmc_host.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_netif/lwip/esp_netif_lwip_ppp.o
+make[2]: Entering directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/soc'
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/soc/src/cpu_util.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/driver/rmt.o
+make[1]: Entering directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_ringbuf'
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_ringbuf/ringbuf.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/soc/src/lldesc.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_netif/lwip/esp_netif_sta_list.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/soc/src/memory_layout_utils.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/driver/spi_bus_lock.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/soc/src/compare_set.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_netif/lwip/esp_netif_lwip.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/driver/mcpwm.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/soc/src/soc_include_legacy_warn.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/soc/src/hal/spi_slave_hal_iram.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/driver/sdmmc_transaction.o
+AR /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/micro-ecc/libmicro-ecc.a
+make[2]: Leaving directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/micro-ecc'
+make[2]: Entering directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/main'
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/main/bootloader_start.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/soc/src/hal/rmt_hal.o
+AR /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/main/libmain.a
+make[2]: Leaving directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/main'
+make[2]: Entering directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/efuse'
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/efuse/esp32/esp_efuse_table.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/driver/dac_common.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/soc/src/hal/mcpwm_hal.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/efuse/src/esp_efuse_api.o
+AR /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_ringbuf/libesp_ringbuf.a
+make[1]: Leaving directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_ringbuf'
+make[1]: Entering directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_rom'
+AR /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_rom/libesp_rom.a
+make[1]: Leaving directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_rom'
+make[1]: Entering directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_system'
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_system/panic.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/efuse/src/esp_efuse_utility.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_system/system_api.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/driver/spi_slave.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/driver/i2s.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_system/port/panic_handler.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/soc/src/hal/spi_slave_hal.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/efuse/src/esp_efuse_fields.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_system/port/esp32/reset_reason.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/driver/rtc_io.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/efuse/src/esp32/esp_efuse_api.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/soc/src/hal/i2s_hal.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_netif/lwip/esp_netif_lwip_defaults.o
+AS /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_system/port/panic_handler_asm.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/efuse/src/esp32/esp_efuse_utility.o
+AS /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_system/port/esp32/dport_panic_highint_hdl.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/driver/timer.o
+make[1]: Entering directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_timer'
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_timer/src/ets_timer_legacy.o
+AR /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_system/libesp_system.a
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_netif/loopback/esp_netif_loopback.o
+make[1]: Leaving directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_system'
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_timer/src/esp_timer_impl_lac.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/efuse/src/esp32/esp_efuse_fields.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/soc/src/hal/rtc_io_hal.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_timer/src/esp_timer.o
+AR /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/efuse/libefuse.a
+make[2]: Leaving directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/efuse'
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/soc/src/hal/i2c_hal_iram.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/driver/periph_ctrl.o
+AR /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_netif/libesp_netif.a
+make[1]: Leaving directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_netif'
+make[1]: Entering directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_wifi'
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/soc/src/hal/wdt_hal_iram.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_wifi/src/lib_printf.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/soc/src/hal/timer_hal.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/soc/src/hal/dac_hal.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/soc/src/hal/adc_hal.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_wifi/src/smartconfig.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/soc/src/hal/ledc_hal_iram.o
+AR /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_timer/libesp_timer.a
+make[1]: Leaving directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_timer'
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/driver/rtc_module.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/driver/esp32/touch_sensor.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_wifi/src/wifi_default.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/soc/src/hal/spi_flash_hal_iram.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/soc/src/hal/uart_hal_iram.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_wifi/src/wifi_netif.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/soc/src/hal/spi_flash_hal.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/driver/esp32/dac.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/driver/esp32/adc.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/soc/src/hal/sigmadelta_hal.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_wifi/src/phy_init.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_wifi/src/mesh_event.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/soc/src/hal/uart_hal.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/soc/src/hal/touch_sensor_hal.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_wifi/src/smartconfig_ack.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_wifi/src/coexist.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/soc/src/hal/spi_hal_iram.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_wifi/src/wifi_init.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_wifi/esp32/esp_adapter.o
+make[1]: Entering directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/espcoredump'
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/espcoredump/src/core_dump_port.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/soc/src/hal/sdio_slave_hal.o
+AR /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/driver/libdriver.a
+make[1]: Leaving directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/driver'
+make[1]: Entering directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/freertos'
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/freertos/queue.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/freertos/croutine.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/freertos/list.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/soc/src/hal/i2c_hal.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/freertos/event_groups.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/freertos/tasks.o
+AR /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_wifi/libesp_wifi.a
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/freertos/timers.o
+make[1]: Leaving directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/esp_wifi'
+make[1]: Entering directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/heap'
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/heap/heap_caps_init.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/espcoredump/src/core_dump_flash.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/soc/src/hal/soc_hal.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/freertos/FreeRTOS-openocd.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/soc/src/hal/twai_hal_iram.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/soc/src/hal/spi_hal.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/freertos/xtensa/xtensa_intr.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/freertos/xtensa/xtensa_init.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/heap/heap_caps.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/heap/multi_heap.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/espcoredump/src/core_dump_common.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/freertos/xtensa/port.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/freertos/xtensa/xtensa_overlay_os_hook.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/soc/src/hal/ledc_hal.o
+AS /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/freertos/xtensa/xtensa_intr_asm.o
+AS /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/freertos/xtensa/xtensa_context.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/soc/src/hal/twai_hal.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/espcoredump/src/core_dump_uart.o
+AS /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/freertos/xtensa/xtensa_vectors.o
+AS /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/freertos/xtensa/xtensa_vector_defaults.o
+AS /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/freertos/xtensa/portasm.o
+make[1]: Entering directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/log'
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/log/log.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/soc/src/hal/spi_flash_hal_gpspi.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/soc/src/hal/mpu_hal.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/soc/src/hal/gpio_hal.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/soc/src/hal/cpu_hal.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/espcoredump/src/core_dump_elf.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/soc/src/hal/pcnt_hal.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/soc/src/esp32/soc_memory_layout.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/log/log_freertos.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/soc/src/esp32/rtc_pm.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/soc/src/esp32/brownout_hal.o
+AR /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/heap/libheap.a
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/soc/src/esp32/adc_hal.o
+make[1]: Leaving directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/heap'
+make[1]: Entering directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/lwip'
+make[1]: Entering directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/mosapp'
+  GEN   /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/gen/mgos_config.c
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/soc/src/esp32/rtc_wdt.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/lwip/apps/dhcpserver/dhcpserver.o
+  GEN   /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/gen/mgos_ro_vars.c
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/soc/src/esp32/touch_sensor_hal.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/log/log_buffers.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/soc/src/esp32/rtc_init.o
+AS esp32_nsleep100.S.o
+  GEN   /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/gen/ffi_exports.c
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/soc/src/esp32/rtc_clk_init.o
+AR /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/log/liblog.a
+make[1]: Leaving directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/log'
+AR /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/freertos/libfreertos.a
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/soc/src/esp32/rtc_sleep.o
+make[1]: Leaving directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/freertos'
+AR /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/espcoredump/libespcoredump.a
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/soc/src/esp32/rtc_time.o
+make[1]: Leaving directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/espcoredump'
+make[1]: Entering directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/newlib'
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/newlib/heap.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/newlib/time.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/soc/src/esp32/rtc_clk.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/soc/soc/esp32/dac_periph.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/ffi_exports.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/soc/soc/esp32/rtc_io_periph.o
+CC mgos_debug.c.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/newlib/termios.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/soc/soc/esp32/rtc_periph.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/soc/soc/esp32/interrupts.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/soc/soc/esp32/i2c_periph.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/soc/soc/esp32/adc_periph.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/newlib/syscalls.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/lwip/apps/ping/ping.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/soc/soc/esp32/sdmmc_periph.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/lwip/apps/ping/esp_ping.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/soc/soc/esp32/uart_periph.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/soc/soc/esp32/touch_sensor_periph.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/soc/soc/esp32/sdio_slave_periph.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/soc/soc/esp32/spi_periph.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/newlib/syscall_table.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/newlib/poll.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/soc/soc/esp32/ledc_periph.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/soc/soc/esp32/i2s_periph.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/soc/soc/esp32/gpio_periph.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/lwip/apps/ping/ping_sock.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/lwip/apps/sntp/sntp.o
+CC mgos_net.c.o
+AR /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/soc/libsoc.a
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/lwip/lwip/src/api/netbuf.o
+make[2]: Leaving directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/soc'
+LD /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/bootloader.elf
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/newlib/abort.o
+CC mgos_bitbang.c.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/newlib/reent_init.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/newlib/locks.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/newlib/random.o
+CC mgos_config_util.c.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/lwip/lwip/src/api/api_lib.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/lwip/lwip/src/api/netifapi.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/newlib/pthread.o
+esptool.py v3.0
+make[1]: Leaving directory '/opt/Espressif/esp-idf/components/bootloader/subproject'
+make[1]: Entering directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/nvs_flash'
+CXX /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/nvs_flash/src/nvs_cxx_api.o
+CC mgos_core_dump.c.o
+CC mgos_dlsym.c.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/lwip/lwip/src/api/tcpip.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/lwip/lwip/src/api/netdb.o
+AR /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/newlib/libnewlib.a
+make[1]: Leaving directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/newlib'
+CC mgos_event.c.o
+make[1]: Entering directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/pthread'
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/pthread/pthread_local_storage.o
+CC mgos_gpio.c.o
+CC mgos_init.c.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/pthread/pthread_cond_var.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/lwip/lwip/src/api/if_api.o
+CC mgos_mmap_esp.c.o
+make[1]: Entering directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/soc'
+CC mgos_sys_config.c.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/soc/src/cpu_util.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/lwip/lwip/src/api/err.o
+CXX /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/nvs_flash/src/nvs_handle_simple.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/lwip/lwip/src/api/api_msg.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/pthread/pthread.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/soc/src/lldesc.o
+CC mgos_config.c.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/lwip/lwip/src/api/sockets.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/soc/src/memory_layout_utils.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/soc/src/compare_set.o
+CC mgos_ro_vars.c.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/soc/src/soc_include_legacy_warn.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/soc/src/hal/spi_slave_hal_iram.o
+AR /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/pthread/libpthread.a
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/soc/src/hal/rmt_hal.o
+make[1]: Leaving directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/pthread'
+CXX /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/nvs_flash/src/nvs_types.o
+CXX /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/nvs_flash/src/nvs_ops.o
+CXX /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/nvs_flash/src/nvs_item_hash_list.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/soc/src/hal/mcpwm_hal.o
+CXX /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/nvs_flash/src/nvs_handle_locked.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/lwip/lwip/src/apps/sntp/sntp.o
+CXX /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/nvs_flash/src/nvs_pagemanager.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/soc/src/hal/spi_slave_hal.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/lwip/lwip/src/apps/netbiosns/netbiosns.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/soc/src/hal/i2s_hal.o
+CXX /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/nvs_flash/src/nvs_api.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/lwip/lwip/src/core/mem.o
+CXX /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/nvs_flash/src/nvs_storage.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/soc/src/hal/rtc_io_hal.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/lwip/lwip/src/core/init.o
+CXX /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/nvs_flash/src/nvs_page.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/soc/src/hal/i2c_hal_iram.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/lwip/lwip/src/core/memp.o
+CC mgos_file_utils.c.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/soc/src/hal/wdt_hal_iram.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/lwip/lwip/src/core/sys.o
+CC mgos_hw_timers.c.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/lwip/lwip/src/core/tcp.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/lwip/lwip/src/core/timeouts.o
+CXX /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/nvs_flash/src/nvs_partition_manager.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/soc/src/hal/timer_hal.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/soc/src/hal/dac_hal.o
+CC mgos_system.c.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/soc/src/hal/adc_hal.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/lwip/lwip/src/core/altcp_alloc.o
+CXX mgos_system.cpp.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/soc/src/hal/ledc_hal_iram.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/lwip/lwip/src/core/dns.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/soc/src/hal/spi_flash_hal_iram.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/soc/src/hal/uart_hal_iram.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/soc/src/hal/spi_flash_hal.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/soc/src/hal/sigmadelta_hal.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/soc/src/hal/uart_hal.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/soc/src/hal/touch_sensor_hal.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/soc/src/hal/spi_hal_iram.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/lwip/lwip/src/core/ip.o
+CC mgos_time.c.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/soc/src/hal/sdio_slave_hal.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/soc/src/hal/i2c_hal.o
+AR /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/nvs_flash/libnvs_flash.a
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/lwip/lwip/src/core/def.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/lwip/lwip/src/core/raw.o
+make[1]: Leaving directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/nvs_flash'
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/soc/src/hal/soc_hal.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/soc/src/hal/twai_hal_iram.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/soc/src/hal/spi_hal.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/soc/src/hal/ledc_hal.o
+CC mgos_timers.c.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/soc/src/hal/twai_hal.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/soc/src/hal/spi_flash_hal_gpspi.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/lwip/lwip/src/core/tcp_in.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/soc/src/hal/mpu_hal.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/soc/src/hal/gpio_hal.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/soc/src/hal/cpu_hal.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/soc/src/hal/pcnt_hal.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/soc/src/esp32/soc_memory_layout.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/soc/src/esp32/rtc_pm.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/soc/src/esp32/brownout_hal.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/lwip/lwip/src/core/pbuf.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/soc/src/esp32/adc_hal.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/lwip/lwip/src/core/netif.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/soc/src/esp32/rtc_wdt.o
+CXX mgos_timers.cpp.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/soc/src/esp32/touch_sensor_hal.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/soc/src/esp32/rtc_init.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/soc/src/esp32/rtc_clk_init.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/soc/src/esp32/rtc_sleep.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/soc/src/esp32/rtc_time.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/soc/src/esp32/rtc_clk.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/soc/soc/esp32/dac_periph.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/soc/soc/esp32/rtc_io_periph.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/soc/soc/esp32/rtc_periph.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/soc/soc/esp32/interrupts.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/soc/soc/esp32/i2c_periph.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/lwip/lwip/src/core/stats.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/soc/soc/esp32/adc_periph.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/soc/soc/esp32/sdmmc_periph.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/soc/soc/esp32/uart_periph.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/soc/soc/esp32/touch_sensor_periph.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/soc/soc/esp32/sdio_slave_periph.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/soc/soc/esp32/spi_periph.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/lwip/lwip/src/core/altcp.o
+CC mgos_uart.c.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/lwip/lwip/src/core/inet_chksum.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/soc/soc/esp32/ledc_periph.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/soc/soc/esp32/i2s_periph.o
+CC mgos_utils.c.o
+CXX mgos_utils.cpp.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/lwip/lwip/src/core/altcp_tcp.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/soc/soc/esp32/gpio_periph.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/lwip/lwip/src/core/udp.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/lwip/lwip/src/core/tcp_out.o
+AR /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/soc/libsoc.a
+CC esp32_crypto.c.o
+make[1]: Leaving directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/soc'
+make[1]: Entering directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/spi_flash'
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/lwip/lwip/src/core/ipv4/ip4_napt.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/spi_flash/spi_flash_os_func_noos.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/lwip/lwip/src/core/ipv4/ip4_frag.o
+CC esp32_debug.c.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/spi_flash/flash_mmap.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/lwip/lwip/src/core/ipv4/dhcp.o
+CC esp32_exc.c.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/lwip/lwip/src/core/ipv4/etharp.o
+CC esp32_fs_crypt.c.o
+CC esp32_gpio.c.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/lwip/lwip/src/core/ipv4/ip4_addr.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/spi_flash/spi_flash_chip_drivers.o
+CC esp32_hal.c.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/spi_flash/partition.o
+CC esp32_hw_timers.c.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/lwip/lwip/src/core/ipv4/igmp.o
+CC esp32_main.c.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/lwip/lwip/src/core/ipv4/ip4.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/lwip/lwip/src/core/ipv4/autoip.o
+CC esp32_uart.c.o
+CXX error_codes.cpp.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/spi_flash/spi_flash_os_func_app.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/lwip/lwip/src/core/ipv4/icmp.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/lwip/lwip/src/core/ipv6/ip6_frag.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/lwip/lwip/src/core/ipv6/dhcp6.o
+CXX status.cpp.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/lwip/lwip/src/core/ipv6/inet6.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/lwip/lwip/src/core/ipv6/ip6_addr.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/spi_flash/spi_flash_chip_generic.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/lwip/lwip/src/core/ipv6/ip6.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/lwip/lwip/src/core/ipv6/nd6.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/lwip/lwip/src/core/ipv6/mld6.o
+CC cs_crc32.c.o
+CC cs_file.c.o
+CC cs_hex.c.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/spi_flash/spi_flash_chip_gd.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/lwip/lwip/src/core/ipv6/ethip6.o
+CC cs_rbuf.c.o
+CC json_utils.c.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/spi_flash/cache_utils.o
+CXX mgos_json_utils.cpp.o
+CC frozen.c.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/lwip/lwip/src/core/ipv6/icmp6.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/lwip/lwip/src/netif/slipif.o
+CC mgos_deps_init.c.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/lwip/lwip/src/netif/ethernet.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/spi_flash/esp_flash_api.o
+CC esp32_adc.c.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/lwip/lwip/src/netif/bridgeif_fdb.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/lwip/lwip/src/netif/zepif.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/lwip/lwip/src/netif/lowpan6.o
+CC mgos_freertos.c.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/lwip/lwip/src/netif/lowpan6_ble.o
+CC mgos_freertos_core_dump.c.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/lwip/lwip/src/netif/lowpan6_common.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/spi_flash/spi_flash_chip_issi.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/lwip/lwip/src/netif/bridgeif.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/lwip/port/esp32/vfs_lwip.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/spi_flash/flash_ops.o
+CC mgos_mbedtls.c.o
+CC esp32_aes.c.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/spi_flash/spi_flash_chip_mxic.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/lwip/port/esp32/freertos/sys_arch.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/spi_flash/memspi_host_driver.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/lwip/port/esp32/netif/wlanif.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/spi_flash/esp_flash_spi_init.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/lwip/port/esp32/netif/dhcp_state.o
+CC esp32_bignum.c.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/spi_flash/esp32/flash_ops_esp32.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/lwip/port/esp32/netif/ethernetif.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/lwip/port/esp32/debug/lwip_debug.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/spi_flash/esp32/spi_flash_rom_patch.o
+CC aes_atca.c.o
+CC aes.c.o
+CC aesni.c.o
+make[1]: Entering directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/vfs'
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/vfs/vfs_uart.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/vfs/vfs.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/vfs/vfs_semihost.o
+CC arc4.c.o
+CC aria.c.o
+CC asn1parse.c.o
+CC asn1write.c.o
+CC base64.c.o
+AR /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/lwip/liblwip.a
+CC bignum.c.o
+CC blowfish.c.o
+make[1]: Leaving directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/lwip'
+make[1]: Entering directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/wpa_supplicant'
+CC camellia.c.o
+CC ccm.c.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/wpa_supplicant/port/os_xtensa.o
+CC certs.c.o
+CC chacha20.c.o
+AR /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/spi_flash/libspi_flash.a
+make[1]: Leaving directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/spi_flash'
+CC chachapoly.c.o
+CC cipher.c.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/wpa_supplicant/src/ap/wpa_auth_ie.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/wpa_supplicant/src/ap/ieee802_1x.o
+CC cipher_wrap.c.o
+CC cmac.c.o
+CC ctr_drbg.c.o
+CC debug.c.o
+CC des.c.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/wpa_supplicant/src/ap/wpa_auth.o
+CC dhm.c.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/wpa_supplicant/src/ap/ap_config.o
+CC ecdh.c.o
+AR /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/vfs/libvfs.a
+make[1]: Entering directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/xtensa'
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/xtensa/eri.o
+make[1]: Leaving directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/vfs'
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/xtensa/stdatomic.o
+CC ecdsa.c.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/xtensa/debug_helpers.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/xtensa/expression_with_stack_xtensa.o
+CC ecjpake.c.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/wpa_supplicant/src/common/sae.o
+CC ecp.c.o
+CC ecp_atca.c.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/xtensa/trax.o
+CC ecp_curves.c.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/xtensa/esp32/trax_init.o
+CC entropy.c.o
+AS /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/xtensa/debug_helpers_asm.o
+CC entropy_poll.c.o
+CC error.c.o
+AS /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/xtensa/expression_with_stack_xtensa_asm.o
+CC gcm.c.o
+AR /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/xtensa/libxtensa.a
+make[1]: Leaving directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/xtensa'
+CC havege.c.o
+  MKDIR /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/fw_temp
+CC hkdf.c.o
+  MKDIR /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/fw
+Building partitions from /mongoose-os/platforms/esp32/src/partitions_mgos.csv...
+CC hmac_drbg.c.o
+CC md.c.o
+CC md2.c.o
+CC md4.c.o
+CC md5.c.o
+CC md_wrap.c.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/wpa_supplicant/src/common/dpp.o
+CC memory_buffer_alloc.c.o
+CC net_sockets.c.o
+CC nist_kw.c.o
+CC oid.c.o
+CC padlock.c.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/wpa_supplicant/src/common/wpa_common.o
+CC pem.c.o
+CC pk.c.o
+CC pk_wrap.c.o
+CC pkcs11.c.o
+CC pkcs12.c.o
+CC pkcs5.c.o
+CC pkparse.c.o
+CC pkwrite.c.o
+CC platform.c.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/wpa_supplicant/src/crypto/aes-internal-enc.o
+CC platform_util.c.o
+
+CC poly1305.c.o
+CC ripemd160.c.o
+CC rsa.c.o
+CC rsa_internal.c.o
+CC sha1.c.o
+CC sha256.c.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/wpa_supplicant/src/crypto/sha256-internal.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/wpa_supplicant/src/crypto/md5-internal.o
+CC sha512.c.o
+CC ssl_cache.c.o
+CC ssl_ciphersuites.c.o
+CC ssl_cli.c.o
+CC ssl_cookie.c.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/wpa_supplicant/src/crypto/aes-internal.o
+CC ssl_srv.c.o
+CC ssl_ticket.c.o
+CC ssl_tls.c.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/wpa_supplicant/src/crypto/aes-internal-dec.o
+CC threading.c.o
+CC timing.c.o
+CC version.c.o
+CC version_features.c.o
+CC x509.c.o
+CC x509_create.c.o
+CC x509_crl.c.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/wpa_supplicant/src/crypto/sha1.o
+CC x509_crt.c.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/wpa_supplicant/src/crypto/crypto_internal.o
+CC x509_csr.c.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/wpa_supplicant/src/crypto/aes-unwrap.o
+CC x509write_crt.c.o
+CC x509write_csr.c.o
+CC xtea.c.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/wpa_supplicant/src/crypto/sha256-kdf.o
+CC mgos_vfs.c.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/wpa_supplicant/src/crypto/crypto_mbedtls-ec.o
+CC mgos_vfs_dev.c.o
+CC mgos_vfs_internal.c.o
+CC esp32_fs.c.o
+CC esp32_vfs_dev_partition.c.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/wpa_supplicant/src/crypto/crypto_internal-rsa.o
+CC mgos_vfs_lfs.c.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/wpa_supplicant/src/crypto/des-internal.o
+CC lfs.c.o
+CC lfs_util.c.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/wpa_supplicant/src/crypto/aes-omac1.o
+CC lfs1.c.o
+CC lfs1_util.c.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/wpa_supplicant/src/crypto/sha1-tlsprf.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/wpa_supplicant/src/crypto/crypto_ops.o
+CC mgos_vfs_fs_spiffs.c.o
+CC spiffs_cache.c.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/wpa_supplicant/src/crypto/dh_group5.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/wpa_supplicant/src/crypto/aes-siv.o
+CC spiffs_check.c.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/wpa_supplicant/src/crypto/crypto_mbedtls.o
+CC spiffs_gc.c.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/wpa_supplicant/src/crypto/aes-wrap.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/wpa_supplicant/src/crypto/sha1-internal.o
+CC spiffs_hydrogen.c.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/wpa_supplicant/src/crypto/md4-internal.o
+CC spiffs_nucleus.c.o
+CC mgos_core.c.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/wpa_supplicant/src/crypto/dh_groups.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/wpa_supplicant/src/crypto/crypto_mbedtls-bignum.o
+CC mgos_shadow.c.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/wpa_supplicant/src/crypto/sha256.o
+CC mg_rpc.c.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/wpa_supplicant/src/crypto/md5.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/wpa_supplicant/src/crypto/aes-cbc.o
+CC mg_rpc_channel.c.o
+CC mg_rpc_channel_http.c.o
+CC mgos_rpc.c.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/wpa_supplicant/src/crypto/crypto_internal-modexp.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/wpa_supplicant/src/crypto/aes-ccm.o
+CC mgos_rpc_channel_ws.c.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/wpa_supplicant/src/crypto/sha1-pbkdf2.o
+CC mgos_rpc_ws.c.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/wpa_supplicant/src/crypto/tls_mbedtls.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/wpa_supplicant/src/crypto/sha256-prf.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/wpa_supplicant/src/crypto/rc4.o
+CC mgos_i2c_master.c.o
+CC esp32_i2c_master.c.o
+CC mos_mjs.c.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/wpa_supplicant/src/crypto/ccmp.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/wpa_supplicant/src/crypto/sha384-tlsprf.o
+CC mjs.c.o
+CC esp32_mjs.c.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/wpa_supplicant/src/crypto/crypto_internal-cipher.o
+CC mgos_mqtt.c.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/wpa_supplicant/src/crypto/sha256-tlsprf.o
+CC mgos_mqtt_conn.c.o
+CC mgos_neopixel.c.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/wpa_supplicant/src/crypto/ms_funcs.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/wpa_supplicant/src/crypto/aes-ctr.o
+CC mg_rpc_channel_loopback.c.o
+CC mgos_service_config.c.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/wpa_supplicant/src/crypto/bignum.o
+CC mgos_service_fs.c.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/wpa_supplicant/src/eap_peer/eap.o
+CC mgos_i2c_service.c.o
+CC mgos_rpc_channel_uart.c.o
+CC mgos_sntp.c.o
+CC mgos_wifi.c.o
+CC mjs_wifi.c.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/wpa_supplicant/src/eap_peer/eap_common.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/wpa_supplicant/src/eap_peer/mschapv2.o
+CC esp32_wifi.c.o
+  GEN   /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/gen/mg_build_info.c
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/wpa_supplicant/src/eap_peer/eap_tls.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/wpa_supplicant/src/eap_peer/eap_tls_common.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/wpa_supplicant/src/eap_peer/eap_ttls.o
+CC mg_build_info.c.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/wpa_supplicant/src/eap_peer/eap_peap.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/wpa_supplicant/src/eap_peer/eap_mschapv2.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/wpa_supplicant/src/eap_peer/chap.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/wpa_supplicant/src/eap_peer/eap_peap_common.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/wpa_supplicant/src/rsn_supp/pmksa_cache.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/wpa_supplicant/src/rsn_supp/wpa_ie.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/wpa_supplicant/src/rsn_supp/wpa.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/wpa_supplicant/src/utils/wpa_debug.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/wpa_supplicant/src/utils/common.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/wpa_supplicant/src/utils/wpabuf.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/wpa_supplicant/src/utils/json.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/wpa_supplicant/src/utils/base64.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/wpa_supplicant/src/utils/ext_password.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/wpa_supplicant/src/utils/uuid.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/wpa_supplicant/src/esp_supplicant/esp_wpas_glue.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/wpa_supplicant/src/esp_supplicant/esp_wps.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/wpa_supplicant/src/esp_supplicant/esp_hostap.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/wpa_supplicant/src/esp_supplicant/esp_wpa3.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/wpa_supplicant/src/esp_supplicant/esp_wpa2.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/wpa_supplicant/src/esp_supplicant/esp_wpa_main.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/wpa_supplicant/src/wps/wps_attr_process.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/wpa_supplicant/src/wps/wps_validate.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/wpa_supplicant/src/wps/wps_attr_parse.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/wpa_supplicant/src/wps/wps_dev_attr.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/wpa_supplicant/src/wps/wps.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/wpa_supplicant/src/wps/wps_common.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/wpa_supplicant/src/wps/wps_registrar.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/wpa_supplicant/src/wps/wps_attr_build.o
+CC /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/wpa_supplicant/src/wps/wps_enrollee.o
+AR /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/wpa_supplicant/libwpa_supplicant.a
+make[1]: Leaving directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/wpa_supplicant'
+  GEN   /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/gen/build_info.c
+CC build_info.c.o
+AR /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/mosapp/libmosapp.a
+make[1]: Leaving directory '/data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/mosapp'
+Generating esp32.project.ld
+LD /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/MOS_I2C_SCAN.elf
+esptool.py v3.0
+    App size: 1054576 of 1572864 (67%)
+  CP    /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/ca-bundle/fs/ca.pem -> /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/fs
+  CP    /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/mjs/fs/api_bitbang.js -> /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/fs
+  CP    /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/mjs/fs/api_config.js -> /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/fs
+  CP    /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/mjs/fs/api_events.js -> /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/fs
+  CP    /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/mjs/fs/api_gpio.js -> /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/fs
+  CP    /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/mjs/fs/api_http.js -> /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/fs
+  CP    /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/mjs/fs/api_log.js -> /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/fs
+  CP    /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/mjs/fs/api_net.js -> /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/fs
+  CP    /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/mjs/fs/api_sys.js -> /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/fs
+  CP    /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/mjs/fs/api_timer.js -> /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/fs
+  CP    /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/mjs/fs/api_uart.js -> /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/fs
+  CP    /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/mjs/fs/polyfill.js -> /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/fs
+  CP    /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mjs/mjs/lib/api_dataview.js -> /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/fs
+  CP    /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mjs/mjs/lib/api_file.js -> /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/fs
+  CP    /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/modules/mjs/mjs/lib/api_math.js -> /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/fs
+  CP    /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/adc/mjs_fs/api_adc.js -> /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/fs
+  CP    /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/ota-http-client/mjs_fs/api_ota.js -> /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/fs
+  CP    /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/shadow/mjs_fs/api_shadow.js -> /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/fs
+  CP    /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/rpc-common/mjs_fs/api_rpc.js -> /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/fs
+  CP    /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/dash/mjs_fs/api_dash.js -> /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/fs
+  CP    /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/i2c/mjs_fs/api_i2c.js -> /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/fs
+  CP    /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/mqtt/mjs_fs/api_mqtt.js -> /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/fs
+  CP    /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/neopixel/mjs_fs/api_neopixel.js -> /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/fs
+  CP    /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/wifi/mjs_fs/api_wifi.js -> /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/fs
+  CP    /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/mjs/esp32/fs/api_arch_uart.js -> /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/fs
+  CP    /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/deps/mjs/esp32/fs/api_esp32.js -> /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/fs
+  CP    /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/fs/init.js -> /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/fs
+  CP    /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/gen/conf0.json -> /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/fs
+  MKFS  /usr/local/bin/mkspiffs8 262144 {bs:4096,ps:256,es:4096} /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/fs -> /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/fw_temp/fs.img
+     FS params: size=262144, bs=4096, ps=256, es=4096
+       Adding api_dash.js: 704
+       Adding api_neopixel.js: 1449
+       Adding api_shadow.js: 1687
+       Adding init.js: 375
+       Adding api_net.js: 5122
+       Adding api_i2c.js: 4880
+       Adding api_wifi.js: 1020
+       Adding api_http.js: 3812
+       Adding api_events.js: 3857
+       Adding api_config.js: 2170
+       Adding api_mqtt.js: 2927
+       Adding api_rpc.js: 2941
+       Adding api_file.js: 2105
+       Adding api_math.js: 1890
+       Adding api_gpio.js: 3571
+       Adding api_timer.js: 1750
+       Adding api_uart.js: 5772
+       Adding api_esp32.js: 460
+       Adding api_bitbang.js: 815
+       Adding api_adc.js: 803
+       Adding api_arch_uart.js: 1206
+       Adding api_sys.js: 1652
+       Adding api_ota.js: 278
+       Adding api_log.js: 2005
+       Adding polyfill.js: 1415
+       Adding ca.pem: 31787
+       Adding api_dataview.js: 7433
+       Adding conf0.json: 3
+     FS stats : space total=233681, used=104416, free=129265
+  GEN    /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/fw_temp/manifest.json
+  ZIP    /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/fw/MOS_I2C_SCAN-esp32-last.zip
+     Adding /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/fw_temp/MOS_I2C_SCAN.bin
+     Adding /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/fw_temp/bootloader.bin
+     Adding /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/fw_temp/fs.img
+     Adding /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/fw_temp/otadata.bin
+     Adding /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/fw_temp/partitions_mgos.bin
+  Built MOS_I2C_SCAN/esp32 version 1.0 (20220212-183134)
+To flash all build output, run 'make flash' or:
+python /opt/Espressif/esp-idf/components/esptool_py/esptool/esptool.py --chip esp32 --port /dev/ttyUSB0 --baud 1500000 --before default_reset --after hard_reset write_flash -z --flash_mode qio --flash_freq 80m --flash_size detect 0xd000 /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/ota_data_initial.bin 0x1000 /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/bootloader/bootloader.bin 0x10000 /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/MOS_I2C_SCAN.bin 0x8000 /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/objs/partitions_mgos.bin
+make: Leaving directory '/app'
+Success, built MOS_I2C_SCAN/esp32 version 1.0 (20220212-183134).
+Firmware saved to /data/fwbuild-volumes/2.19.1/apps/MOS_I2C_SCAN/esp32/build_contexts/build_ctx_484581589/build/fw.zip
+By the way, there is a newer version available: "2.20.0" (you use "2.19.1"). Run "mos update" to upgrade.

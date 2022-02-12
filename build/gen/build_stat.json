@@ -1,0 +1,6 @@
+{
+  "arch": "esp32",
+  "platform": "esp32",
+  "app_name": "MOS_I2C_SCAN",
+  "build_time_ms": 54560
+}
